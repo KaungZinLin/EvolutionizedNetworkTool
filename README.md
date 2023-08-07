@@ -1,9 +1,7 @@
 # EvolutionizedNetworkTool
 
 <h1 align="center">
-    <br />
-    <<img width="27" alt="image" src="https://github.com/KaungZinLin/EvolutionizedNetworkTool/assets/116542070/ede908b8-aa87-48aa-a806-8fc10fd991b7">
->
+    <img width="30" alt="image" src="https://github.com/KaungZinLin/EvolutionizedNetworkTool/assets/116542070/b69ceec3-a226-4435-9c28-093bc72c9d92">
     EvolutionizedNetworkTool
   </a>
 </h1>
