@@ -27,4 +27,4 @@ NOTE: Everything else is the Same but I may changed this in the Future!
 
 ## Credits
 
-- [Original Version](https://www.icloud.com/shortcuts/1c44d8f2c7dd45d6a041f669ccce4baf)) - All other features in the Shortcut are inspired by the Original Version
+- [Original Version](https://www.icloud.com/shortcuts/1c44d8f2c7dd45d6a041f669ccce4baf) - All other features in the Shortcut are inspired by the Original Version
