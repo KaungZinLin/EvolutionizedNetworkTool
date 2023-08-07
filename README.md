@@ -1,7 +1,6 @@
 # EvolutionizedNetworkTool
 
 <h1 align="center">
-  <a href="https://linearmouse.app">
     <br />
     EvolutionizedNetworkTool
   </a>
@@ -17,14 +16,13 @@ A modified version of the Network Tool that runs inside of the Shortcuts app on 
 
 Download Link: https://www.icloud.com/shortcuts/7dbad89f87654f3095d19fac8b56b2ed
 
-## Changelog
-
-Things that I Changed
+## Things that I Changed
 <img width="688" alt="image" src="https://github.com/KaungZinLin/EvolutionizedNetworkTool/assets/116542070/4aae02bd-3212-495b-b9e8-9a0f0b16c576">
 
-Original Version:
+## Original Version:
 <img width="681" alt="image" src="https://github.com/KaungZinLin/EvolutionizedNetworkTool/assets/116542070/1ec0e6d1-b397-460d-b8d5-42ad2719a56a">
 
+## NOTE
 NOTE: Everything else is the Same but I may changed this in the Future!
 
 ## Credits
