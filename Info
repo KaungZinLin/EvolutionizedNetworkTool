@@ -1,0 +1,18 @@
+=====HELLO EVERYONE!=====
+Today, I've decided to make changes in the Network Tool that you can use with the Shortcuts app on Mac.
+
+=====MODIFIED VERSION DOWNLOAD LINK=====
+https://www.icloud.com/shortcuts/7dbad89f87654f3095d19fac8b56b2ed
+
+=====CREDITS=====
+Original Version: https://www.icloud.com/shortcuts/1c44d8f2c7dd45d6a041f669ccce4baf
+
+=====MODIFICATIONS=====
+Changed the method of doing a Speedtest.
+
+Instead of opening up 'https://fast.com/' and getting the Speedtest result by looking at the Safari WebView, it nows gets the Speedtest results with the macOS Terminal.
+
+=====BENEFITS OF USING THIS METHOD=====
+Gets more infomation. Such as; Uplink Capacity (Upload Speed), Downlink Capacity (Download Speed), Responsiveness (e.g. Low, Medium, High) with Precise Speed in RPM and Idle Latency in Miliseconds.
+
+=====HUGE THANKS FOR USING THIS MODIFIED VERSION OF THE SHORTCUT====
