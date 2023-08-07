@@ -2,9 +2,8 @@
 
 <h1 align="center">
   <a href="https://linearmouse.app">
-    <img src="logo.svg" width="128" height="128" />
     <br />
-    LinearMouse
+    EvolutionizedNetworkTool
   </a>
 </h1>
 
