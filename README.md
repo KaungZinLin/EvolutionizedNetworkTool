@@ -8,12 +8,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/linearmouse/linearmouse/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/linearmouse/linearmouse?sort=semver"></a>
-  <a href="https://github.com/linearmouse/linearmouse/releases/latest/download/LinearMouse.dmg"><img src="https://img.shields.io/github/downloads/linearmouse/linearmouse/total" alt="Downloads" /></a>
-  <img src="https://img.shields.io/github/license/linearmouse/linearmouse" alt="MIT License" />
-  <a href="https://crowdin.com/project/linearmouse"><img src="https://badges.crowdin.net/linearmouse/localized.svg" alt="Crowdin" /></a>
-</p>
+
 
 <p align="center">
 A modified version of the Network Tool that runs inside of the Shortcuts app on Mac.
